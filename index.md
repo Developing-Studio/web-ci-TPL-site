@@ -1,4 +1,6 @@
-## Welcome to Top Programming Lab
+<h1>Top Programming Lab<h1>
+
+## Welcome to Programming Lab
 
 Hello. We are Top Programming Lab team.
 
